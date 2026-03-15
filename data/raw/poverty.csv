@@ -1,0 +1,18 @@
+region_code,region_name,poverty_rate_2018,poverty_rate_2021
+NCR,National Capital Region,3.9,2.2
+CAR,Cordillera Administrative Region,24.0,20.6
+I,Ilocos Region,14.0,10.9
+II,Cagayan Valley,15.3,11.5
+III,Central Luzon,8.2,5.9
+IV-A,CALABARZON,6.0,5.1
+IV-B,MIMAROPA,34.2,27.9
+V,Bicol Region,36.4,30.5
+VI,Western Visayas,22.8,20.0
+VII,Central Visayas,19.0,16.5
+VIII,Eastern Visayas,30.3,25.5
+IX,Zamboanga Peninsula,38.5,29.8
+X,Northern Mindanao,25.9,20.7
+XI,Davao Region,17.3,13.7
+XII,SOCCSKSARGEN,30.7,24.6
+XIII,Caraga,36.6,28.3
+BARMM,Bangsamoro Autonomous Region,53.7,40.9
