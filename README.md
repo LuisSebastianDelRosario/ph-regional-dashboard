@@ -103,4 +103,4 @@ ph-regional-dashboard/
 
 ## 👤 Author
 
-Built by Luis — PwC Manila
+Built by Luis Sebastian Del Rosario (March 2026)
